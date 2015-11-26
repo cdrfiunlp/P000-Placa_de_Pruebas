@@ -12,6 +12,6 @@ Link al proyecto:
 	- http://cdr.ing.unlp.edu.ar/proyecto/placa-de-pruebas-arduino-uno/
 
 Estado del proyecto:
-	[X] Se encuentran desarrolladas 6 placas de pruebas compatibles con Arduino UNO.
-	[X] Se encuentra disponible en este repositorio un código de prueba para probar la placa de pruebas con su correspondiente librería.
+- [X] Se encuentran desarrolladas 6 placas de pruebas compatibles con Arduino UNO.
+- [X] Se encuentra disponible en este repositorio un código de prueba para probar la placa de pruebas con su correspondiente librería.
 	
