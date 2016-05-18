@@ -15,4 +15,4 @@ El repositorio contiene las librerías básicas para Placa de Pruebas de Arduino
 - [X] Se encuentra disponible en este repositorio un código de prueba para probar la placa de pruebas con su correspondiente librería.
 	
 ## Link al proyecto:
-[Link al proyecto en el sitio del Club](http://cdr.ing.unlp.edu.ar/proyecto/placa-de-pruebas-arduino-uno/)
+[Link al proyecto en el sitio del Club](http://cdr.ing.unlp.edu.ar/proyectos/000/)
